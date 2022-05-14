@@ -1,0 +1,18 @@
+# Dependencies
+node_modules
+
+# Logs
+logs
+
+# yarn error logs
+yarn-error.log
+
+# Environment varibales
+.env*
+!.env*.example
+
+# Code coverage
+coverage
+
+# Nyc outputs
+.nyc_output
